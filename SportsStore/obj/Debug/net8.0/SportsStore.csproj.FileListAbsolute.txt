@@ -100,3 +100,6 @@
 /Users/tomassvojanovsky/projects/SportsSln/SportsStore/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /Users/tomassvojanovsky/projects/SportsSln/SportsStore/obj/Debug/net8.0/SportsStore.csproj.AssemblyReference.cache
 /Users/tomassvojanovsky/projects/SportsSln/SportsStore/obj/Debug/net8.0/SportsSt.D81B86A7.Up2Date
+/Users/tomassvojanovsky/projects/SportsSln/SportsStore/obj/Debug/net8.0/SportsStore.sourcelink.json
+/Users/tomassvojanovsky/projects/SportsSln/SportsStore/bin/Debug/net8.0/libman.json
+/Users/tomassvojanovsky/projects/SportsSln/SportsStore/bin/Debug/net8.0/SportsStore.staticwebassets.runtime.json
